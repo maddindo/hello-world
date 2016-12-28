@@ -1,3 +1,3 @@
 # hello-world
 just a test
-efadfklasdfajsdflk
+Dieses ist nur ein Test. Ich lerne Github gerade erst kennen.
